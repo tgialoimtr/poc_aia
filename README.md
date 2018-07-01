@@ -15,6 +15,6 @@ Edit common.py:
 3. args.logsfile ==> store log files   
 
 
-python webapp.py 
+python webapp.py  
 from browser, access http://localhost:8080/start to trigger start controller to start tensorflow server. Sometimes it hangs, refresh page.  
 from browser, access http://localhost:8080/ocr/cmnd9/lines to view GUI interface to upload individual lines, press "Upload" and wait for json text result  
